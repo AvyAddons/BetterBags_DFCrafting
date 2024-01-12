@@ -1,0 +1,28 @@
+## Interface: 100200
+
+## Title: BetterBags - Dragonflight Crafting
+## Notes: Filters for Dragonflight Crafting categories in BetterBags.
+## Author: Avyiel
+## Version: @project-version@
+## X-Date: @project-date-iso@
+## IconTexture: Interface\Icons\inv_misc_bag_05
+
+## DefaultState: Enabled
+## Dependencies: BetterBags
+#@alpha@
+## OptionalDeps: BugSack, BugGrabber
+#@end-alpha@
+
+## X-Date: @project-date-iso@
+## X-Category: Bags & Inventory
+## X-License: MIT
+
+## X-Curse-Project-ID:
+## X-Wago-ID:
+
+db.lua
+main.lua
+
+#@debug@
+## Version: DEV
+#@end-debug@
