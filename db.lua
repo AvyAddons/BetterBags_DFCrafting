@@ -388,6 +388,11 @@ addon.db = {
 		--------------------------------------------------------
 		208396, -- Splintered Spark of Dreams
 		206959, -- Spark of Dreams
+		--------------------------------------------------------
+		-- 10.2.6
+		--------------------------------------------------------
+		211515, -- Splintered Spark of Awakening
+		211516, -- Spark of Awakening
 	},
 	["Titan Training Matrix"] = {
 		198048, -- Titan Training Matrix I
