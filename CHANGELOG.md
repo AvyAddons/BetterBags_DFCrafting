@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file. Be aware th
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [1.2.0] 2024-08-23
+### Changed
+- Renamed all categories to have a `- DF` suffix to differentiate from TWW categories.
+
 ## [1.1.0] 2024-07-25
 ### Changed
 - Flush category on initialization to prevent stale items

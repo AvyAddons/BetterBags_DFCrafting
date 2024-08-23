@@ -3,6 +3,8 @@
 
 **If you've noticed a missing, miscategorized, or unbelonging item, please leave a comment!**
 
+## Categories have a ` - DF` suffix!
+
 Currently, this addon supports:
 
 - Alchemy
