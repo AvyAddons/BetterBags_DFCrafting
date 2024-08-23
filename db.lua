@@ -4,12 +4,12 @@ local _, addon = ...
 -- Database
 -----------------------------------------------------------
 addon.db = {
-	["Alchemy"] = {
+	["Alchemy - DF"] = {
 		191476, -- Draconic Vial
 		191474, -- Draconic Vial
 		191475, -- Draconic Vial
 	},
-	["Cloth"] = {
+	["Cloth - DF"] = {
 		193938, -- Azureweave Bolt
 		193939, -- Azureweave Bolt
 		193940, -- Azureweave Bolt
@@ -35,7 +35,7 @@ addon.db = {
 		193050, -- Tattered Wildercloth
 		193053, -- Duck Feather
 	},
-	["Cooking"] = {
+	["Cooking - DF"] = {
 		199105, -- Ancheevy
 		199212, -- Clubfish
 		199833, -- Dragonhead Eel
@@ -85,13 +85,13 @@ addon.db = {
 		-- Herbalism
 		197755, -- Lava Beetle
 	},
-	["Enchanting"] = {
+	["Enchanting - DF"] = {
 		200113, -- Resonant Crystal
 		194124, -- Vibrant Shard
 		194123, -- Chromatic Dust
 		201584, -- Tyrivite Rod
 	},
-	["Herbs"] = {
+	["Herbs - DF"] = {
 		191468, -- Bubble Poppy
 		191469, -- Bubble Poppy
 		191467, -- Bubble Poppy
@@ -109,7 +109,7 @@ addon.db = {
 		200509, -- Agitated Roused Seedling
 		200507, -- Decayed Roused Seedling
 	},
-	["Inscription"] = {
+	["Inscription - DF"] = {
 		194784, -- Glittering Parchment
 		194846, -- Blazing Ink
 		194751, -- Blazing Ink
@@ -148,7 +148,7 @@ addon.db = {
 		194862, -- Runed Writhebark
 		194863, -- Runed Writhebark
 	},
-	["Jewelcrafting"] = {
+	["Jewelcrafting - DF"] = {
 		200156, -- Amethyzarite Geode
 		194545, -- Prismatic Ore
 		198397, -- Rainbow Pearl
@@ -228,7 +228,7 @@ addon.db = {
 		192859, -- Ysemerald
 		192861, -- Ysemerald
 	},
-	["Leather"] = {
+	["Leather - DF"] = {
 		193261, -- Bite-Sized Morsel
 		193262, -- Exceptional Morsel
 		193253, -- Cacophonous Thunderscale
@@ -278,7 +278,7 @@ addon.db = {
 		197735, -- Finished Prototype Explorer's Barding
 		197736, -- Finished Prototype Regal Barding
 	},
-	["Mining"] = {
+	["Mining - DF"] = {
 		190452, -- Primal Flux
 		190535, -- Black Dragon Seared Alloy
 		190533, -- Black Dragon Seared Alloy
@@ -309,7 +309,7 @@ addon.db = {
 		204994, -- Shadowed Alloy
 		204996, -- Shadowed Alloy
 	},
-	["Engineering"] = {
+	["Engineering - DF"] = {
 		198195, -- Arclight Capacitor
 		198197, -- Arclight Capacitor
 		198196, -- Arclight Capacitor
@@ -334,7 +334,7 @@ addon.db = {
 		-- Vendor reagent
 		201832, -- Smudged Lens
 	},
-	["Reagents"] = {
+	["Reagents - DF"] = {
 		-- Common
 		201400, -- Aquatic Maw
 		200860, -- Draconic Stopper
@@ -372,7 +372,7 @@ addon.db = {
 		208212, -- Dreaming Essence
 		210456, -- Dreaming Antler Fragment
 	},
-	["Meta Materials"] = {
+	["Meta Materials - DF"] = {
 		190456, -- Artisan's Mettle
 		190454, -- Primal Chaos
 		200686, -- Primal Focus
