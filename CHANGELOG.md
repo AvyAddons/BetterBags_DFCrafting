@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file. Be aware th
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [Unreleased]
+## Changed
+- Bump TOC to 11.0.2, 11.0.5
+
 ## [1.2.0] 2024-08-23
 ### Changed
 - Renamed all categories to have a `- DF` suffix to differentiate from TWW categories.
