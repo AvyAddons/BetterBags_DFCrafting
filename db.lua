@@ -1,5 +1,5 @@
----@type string, AddonNS
-local _, addon = ...
+---@class BBDFC
+local addon = select(2, ...)
 
 -- Database
 -----------------------------------------------------------
