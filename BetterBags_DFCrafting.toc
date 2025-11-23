@@ -1,4 +1,4 @@
-## Interface: 110005, 110007
+## Interface: 110205, 110207
 
 ## Title: BetterBags - Dragonflight Crafting
 ## Notes: Filters for Dragonflight Crafting categories in BetterBags.
