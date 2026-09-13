@@ -11,15 +11,15 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 - Dropped support for 11.2.x client
 
 ## [1.2.3] 2025-11-23
-## Changed
+### Changed
 - Bump TOC to 11.2.5, 11.2.7
 
 ## [1.2.2] 2024-12-19
-## Changed
+### Changed
 - Bump TOC to 11.0.5, 11.0.7
 
 ## [1.2.1] 2024-10-23
-## Changed
+### Changed
 - Bump TOC to 11.0.2, 11.0.5
 
 ## [1.2.0] 2024-08-23
